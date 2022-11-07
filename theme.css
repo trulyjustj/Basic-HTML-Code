@@ -18,3 +18,12 @@ body {
 h1, body, html, h2, p, a {
     font-family: "Times New Roman", Times, serif;
 }
+details.styled {
+    padding: 1em;
+    border: 1px solid #121212;
+    border-radius: 4px;
+}
+details.styled {
+    outline: none;
+    cursor: pointer;
+}
